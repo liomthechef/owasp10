@@ -37,7 +37,7 @@ def query_user(datasource, username):
 def main():
    database.main() 
 
-   output = query_user("users", "georges OR 1=1")
+   output = query_user("users", "georges' OR '1'='1")
    print (output)
 
 if __name__ == '__main__':
