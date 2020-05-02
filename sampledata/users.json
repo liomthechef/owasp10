@@ -1,0 +1,83 @@
+[
+  {
+    "name": "George Smith",
+    "username": "georges",
+    "password": "1e10ffa6d775ec1dc84e20bfb003c823d9859b0df859cbf1e2ad9b6da4e099b9",
+    "address": "123 george street",
+    "phone": "0422383993",
+    "tfn": 776839212
+  },
+  {
+    "name": "Isabell Mcgregor",
+    "username": "isabellm",
+    "password": "7abf514d7485a105bbcba1d110623d76ae2ed8ada7788f60d488d2b773f38e40",
+    "address": "123 ardern street",
+    "phone": "0453738593",
+    "tfn": 414576115
+  },
+  {
+    "name": "Cadence Mueller",
+    "username": "cadencem",
+    "password": "384480a79c1fe650da85a9f9500959eefa8150b23b2e102263fed5b35473b66a",
+    "address": "123 george street",
+    "phone": "23980723498",
+    "tfn": 156778338
+  },
+  {
+    "name": "Helen Berger",
+    "username": "helenb",
+    "password": "60f67a1c83754d2d996f3a8a647877b1130b4c84f52f49a9cd4c6a1a68f6c88f",
+    "address": "123 george street",
+    "phone": "089472344",
+    "tfn": 895342344
+  },
+  {
+    "name": "Keane Goodman",
+    "username": "keaneg",
+    "password": "c6743459bcd1697a97a99b3610ff4ddb7c0a83fddfdd874bb1333cbc88e24668",
+    "address": "123 george street",
+    "phone": "023487464",
+    "tfn": 788593247
+  },
+  {
+    "name": "Braxton Adams",
+    "username": "braxtona",
+    "password": "bf2cc27233551f82b47b561620764b5cea7fc8ba867431624bc1b35d40a178dc",
+    "address": "123 george street",
+    "phone": "0185746712",
+    "tfn": 961276433
+  },
+  {
+    "name": "Miles Mccarty",
+    "username": "milesm",
+    "password": "17bcec3b421ee98f901a94249cdf9ccbe7e95db5a5a559fb752434d234f5e8fb",
+    "address": "123 miles street",
+    "phone": "017376123",
+    "tfn": 907156433
+  },
+  {
+    "name": "Abigale Chapman",
+    "username": "abigalec",
+    "password": "1de9f9b250440fd13e555e870bafa94aee34e31bd62feccaf875241d5a2d53c3",
+    "address": "123 abigale street",
+    "phone": "047827312",
+    "tfn": 489167986
+  },
+  {
+    "name": "Cem Sharpe",
+    "username": "cems",
+    "password": "1194d68ed23da94c8185bfd0d2aaa3805856d0619568f4d4d644a87cfb235714",
+    "address": "123 cem street",
+    "phone": "057323123",
+    "tfn": 198057563
+  },
+  {
+    "name": "Chad Plummer",
+    "username": "chadp",
+    "password": "47f407b9d0f02bca02ac5d30eecb3564665097dc0939d5b4e5c6f4eba553b9fb",
+    "address": "123 chad street",
+    "phone": "0421847552",
+    "tfn": 419864563
+  }
+
+]
